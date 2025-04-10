@@ -69,3 +69,10 @@ Visit: http://localhost:3000
 📁 Images
 
 Place all car images inside public/images/ folder (e.g. public/images/i20.jpg).
+
+---
+
+## 👤 Created By
+
+**Priyanshu Kumari**
+
